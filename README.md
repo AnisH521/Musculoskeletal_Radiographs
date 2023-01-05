@@ -7,3 +7,6 @@ million emergency department visits annually and increasing
 
 ## Task
  Algorithms are tasked with determining whether an X-ray study is normal or abnormal.
+
+## Project Association
+This project is associated with University of Kalyani, Department of Computer Science and Engineering Under supervision of Professor Sukanta Majumder
