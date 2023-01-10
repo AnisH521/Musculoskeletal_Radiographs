@@ -15,5 +15,3 @@
 ><p align="center">
 >  <img src="https://github.com/charisTheo/under-construction/blob/master/docs/under-construction.gif?raw=true" alt="Under construction gif animation"/>
 ></p>
-
-> :e-mail: anishnaskar99@gmail.com
